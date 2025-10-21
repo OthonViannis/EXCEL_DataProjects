@@ -1,0 +1,6 @@
+This project simulates a real-world administrative task: converting a multi-page restaurant menu from PDF to editable Word format using OCR. 
+I used OnlineOCR.net to extract text, then manually corrected layout errors, restored missing symbols, and reformatted fonts, tables, and colors 
+to closely match the original design.
+
+The result is a professionally cleaned, editable Word document that mirrors the original Beefeater menu in structure and readability. 
+This project highlights accuracy, formatting precision, and attention to detail—essential skills in document digitization and data entry roles.
