@@ -1,2 +1,2 @@
-# data-projects
-A collection of my practical data projects exploring data cleaning, visualization, and storytelling through Excel and Power Query. Includes dashboards, analysis, and automation experiments.
+# EXCEL_data-projects-portfolio
+This repository gathers the data projects I’ve created while learning and applying Excel, Power Query, and visualization techniques. From reports, to data cleaning, dashboard creation, and storytelling through data, each project represents a step in my journey into data analytics. Combining analytical precision with a creative, human-centered perspective, I explore how data can reveal meaningful insights and stories.
