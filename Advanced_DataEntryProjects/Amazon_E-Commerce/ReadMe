@@ -1,0 +1,7 @@
+This project simulates an end-to-end e-commerce analytics workflow using anonymized Amazon Fashion sales data from 2022. 
+Built in Excel with over 128,000 transaction records, it demonstrates how data cleaning, transformation, and visualization 
+can turn raw data into business-ready insights.
+
+The analysis explores monthly sales trends, category performance, cancellation rates, and top-performing cities, presented through dynamic dashboards 
+powered by PivotTables and charts. It highlights strong seasonal sales patterns, dominant city markets such as Bengaluru and Mumbai, and variations 
+in cancellation behavior across the year.
