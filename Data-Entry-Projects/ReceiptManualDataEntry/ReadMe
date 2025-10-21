@@ -1,0 +1,4 @@
+This project involved manually transcribing item-level data from 100 café receipts—totaling 418 rows—into a structured Excel sheet. 
+Each record includes receipt ID, vendor, item details, quantity, price, and totals, with built-in formula validation for accuracy. 
+The dataset demonstrates precision, consistency, and audit-ready formatting across hundreds of manually entered records. 
+It highlights meticulous data structuring and formula-based quality checks in Excel, essential for real-world data entry and reconciliation workflows.
