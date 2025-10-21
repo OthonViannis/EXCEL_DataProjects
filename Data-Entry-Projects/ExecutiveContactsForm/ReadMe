@@ -1,0 +1,5 @@
+This project demonstrates how Excel can be used to streamline manual data entry and enhance data quality. 
+I created a built-in Data Entry Form to record executive contact details efficiently, reducing typing errors and ensuring clean, consistent data.
+
+The dataset, generated with Mockaroo, was manually entered and analyzed using PivotTables, lookup formulas, and Slicers to simulate a real-world business scenario. 
+The final dashboard provides a clear summary of company, location, and industry insights, showcasing both data entry and basic analytical skills.
